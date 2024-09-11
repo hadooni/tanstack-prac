@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "4345",
+      "title": "테스트 타이틀",
+      "views": "300"
+    },
+    {
+      "id": "7b36",
+      "title": "되는지 확인",
+      "views": "400"
+    },
+    {
+      "id": "3f59",
+      "title": "다시 테스트",
+      "views": "500"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
